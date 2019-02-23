@@ -1191,4 +1191,4 @@ client.on('message',  message => {
 
 
 
-client.login('NTQyOTc4MzI0NzAwNDYzMTEw.D1NCrw.SfuFsHlTZbFVXgfgM0WY7Ken1Ao
+client.login(process.env.BOT_TOKEN);// لا تغير فيها شيء
